@@ -1,1 +1,1 @@
-console.log('SYSTEMA DIGITAL | Viktor Lugovskoy');
+console.log('SYSTEMA DIGITAL | Viktor Lugovskoy © 2026');
